@@ -1,2 +1,2 @@
 # duck-app
-javascript json-cors practice 
+proyecto personal para practicar javascript json-cors, fetch y oop 
